@@ -8,13 +8,13 @@ The repository contains documentation templates.
 
 Each project should at least have a `README.md` file and a `LICENSE.txt` file.
 
-## Tested on
+## Tested On
 - The `README` for any applicaton should have a `tested on` section containing a list of systems the application has been tested on
 
-## To build
+## To Build
 - Any application that should have a `to build` section
 
-## To use
+## To Use
 - Any application should have a `to use` section describing the bare minimum required to use the application
 - i.e. To use this `README` as a template on Linux type: `wget -O README.md bit.do/tadreadme`
 
