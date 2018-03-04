@@ -16,10 +16,10 @@ Each project should at least have a `README.md` file and a `LICENSE.txt` file.
 
 ## To use
 - Any application should have a `to use` section describing the bare minimum required to use the application
-- For instance, to use this repo (to create a `README`):
+- For instance, to use this `README` as a template on Linux type: `wget -O README.md bit.do/tadreadme`
 
 ## Functionality
-- Any application should have a `functionality` section where extra functionality is included
+- Any application should have a `functionality` section where extra functionality is explained
 
 ### License
 
