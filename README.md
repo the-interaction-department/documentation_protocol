@@ -1,5 +1,6 @@
 # Documentation Protocol
 *The Interaction Department's documentation standards and templates*
+
 &uparrow; This should be the same as the Github `Description`
 
 ## Description
