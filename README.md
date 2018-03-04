@@ -1,5 +1,5 @@
 # Documentation Protocol
-*The Interaction Department's documentation standards and templates*
+*The Interaction Department's documentation standards and templates* &leftarrow; This should be the same as the Github "Description"
 
 ## Description
 The repository contains documentation templates.
