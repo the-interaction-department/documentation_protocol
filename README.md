@@ -21,7 +21,7 @@ Each project should at least have a `README.md` file and a `LICENSE.txt` file.
 ## Functionality
 - Any application should have a `functionality` section where extra functionality is explained
 
-## Extra notes
+## Extra Notes
 - Any extra notes such as hardware requirements, project layout etc.
 
 ### License
