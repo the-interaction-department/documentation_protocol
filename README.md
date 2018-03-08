@@ -1,28 +1,24 @@
-# Documentation Protocol
-*The Interaction Department's documentation standards and templates*
-
-&uparrow; This should be the same as the Github `Description`
+# README Template
+*Short description goes here (normally would be the same as the Github `Description`)*
 
 ## Description
-The repository contains documentation templates.
-
-Each project should at least have a `README.md` file and a `LICENSE.txt` file.
+A more detailed description goes here.
 
 ## Tested On
-- The `README` for any applicaton should have a `Tested On` section containing a list of systems the application has been tested on
+- The operating systems that have been tested with the project (if applicable) go here
 
 ## To Build
-- Any application that should have a `To Build` section
+- Build instructions for the project (if applicable) go here.
 
 ## To Use
-- Any application should have a `To Use` section describing the bare minimum required to use the application
+- Most basic steps to get started with the project go here
 - i.e. To use this `README` as a template on Linux type: `wget -O README.md bit.do/tadreadme`
 
 ## Functionality
-- Any application should have a `Functionality` section where extra functionality is explained
+- Extra functionality not covered above goes here (if applicable)
 
 ## Extra Notes
-- Any extra notes such as hardware requirements, project layout etc.
+- Any extra notes (such as hardware requirements) go here
 
 ### License
 
