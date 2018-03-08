@@ -1,5 +1,5 @@
 # README Template
-*Short description goes here (normally would be the same as the Github `Description`)*
+*Short description goes here (normally would be the same as the Github description)*
 
 ## Description
 A more detailed description goes here.
