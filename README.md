@@ -24,4 +24,4 @@ A more detailed description goes here.
 
 :copyright: The Interaction Department 2018
 
-[MIT License](http://en.wikipedia.org/wiki/MIT_License)
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
