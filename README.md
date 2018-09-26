@@ -4,7 +4,7 @@
 ## Description
 A more detailed description goes here.
 
-All of the next sections (except License) should only be added if applicable to the project.
+Each of the next sections should only be added if applicable to the project.
 
 ## Tested On
 - The operating systems that have been tested with the project.
