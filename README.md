@@ -6,6 +6,9 @@ A more detailed description goes here.
 
 Each of the next sections should only be added if applicable to the project.
 
+## Dependencies
+- For projects that do not have a package manager, list dependencies here.
+
 ## Tested On
 - The operating systems that have been tested with the project.
 
