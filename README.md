@@ -17,7 +17,7 @@ Each of the next sections should only be added if applicable to the project.
 
 ## To Use
 - Most basic steps to get started.
-- i.e. To use this `README` as a template on Linux type: `wget -O README.md bit.do/tadreadme`
+- i.e. To use this `README` as a template on Linux type: `wget -O README.md bit.do/dpreadme`
 
 ## Project Structure
 A description of how the project is organized.
